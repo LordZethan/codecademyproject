@@ -14,3 +14,14 @@ body {
     size: 16px;
     color: aquamarine;
 }
+
+.header--level2 {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+.gray-paragraph {
+    color: gray;
+    font-size: 21px;
+}
